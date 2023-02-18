@@ -26,7 +26,7 @@ public class Nilai_rata_rata {
          System.out.println("======================");
          System.out.println("Nilai Rata Rata : "+c);
          System.out.println("======================");
-         
+         input.close();
 
 	}
 
