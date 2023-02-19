@@ -13,7 +13,7 @@ public class percabangan {
 		}else if(b == 2) {
 			System.out.print("Nilai VAriabel B Adalah 2");
 		}
-
+		input.close();
 	}
 
 }

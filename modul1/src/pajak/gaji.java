@@ -28,6 +28,7 @@ public class gaji {
 		
 		System.out.println("GAJI BERSIH : "+RpIndo.format(FreePajak));
 		System.out.println("==============================");
+		input.close();
 	}
 
 }
